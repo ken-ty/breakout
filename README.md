@@ -16,7 +16,7 @@ OSは現状指定なし。Unity Version は指定するが、定期的に更新�
 
 | 名前 | 指定 |
 | -- | --- |
-| OS | Ubuntu20.04 以上 or macOS v10.15 以上 or Windows hoge(未検証) |
+| OS | Ubuntu20.04 以上 or macOS v10.15 以上 or Windows(未検証) |
 | Unity Hub | 3.0.0-beta.6 以上 |
 | Unity | 2020.3.32f 固定 |
 
